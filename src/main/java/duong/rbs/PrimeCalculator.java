@@ -96,6 +96,8 @@ public class PrimeCalculator {
             }
         }
 
+		limit = "Just changed";
+		
         return generateString(limit);
     }
 }
